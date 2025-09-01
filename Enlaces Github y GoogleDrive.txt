@@ -1,0 +1,12 @@
+A continuación se adjuntan los enlaces correspondientes al repositorio de Github y
+carpeta Onedrive donde también se alojarán los archivos del TFM que se subieron
+a la plataforma del Máster.
+
+Enlace Github
+
+https://github.com/MauroAlexisFernandez/TFM_UCM_DataScience
+
+
+Enlace OneDrive
+
+https://drive.google.com/drive/folders/11nXf3mFeh6A4Z6hL7YOt7je59O00-62H?usp=drive_link
